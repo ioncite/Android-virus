@@ -1,4 +1,7 @@
 # Android-virus
+
+before anything i did not make this myself I just customised the apk (the original one had disturbing things thar aren'tsuitablefor all people)
+
 please note the following
 · The code is strictly for educational and research purposes
 · It should only be used in authorized environments (VMs, isolated labs)
